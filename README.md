@@ -3,6 +3,9 @@
 This project focuses on unsupervised learning techniques to perform customer segmentation based on transaction data from an online retail store. 
 Using data preprocessing, feature engineering, and clustering algorithms like KMeans and Hierarchical Clustering, we uncover patterns in customer behavior to support personalized marketing strategies. The project includes exploratory data analysis, outlier detection, dimensionality reduction, and interactive visualizations for business insights.
 
+![Startup](https://github.com/user-attachments/assets/29a8570b-6ac9-49b5-b30b-d45e1c963c37)
+
+
 ## 📋 Project Description
 
 As part of the data team at Commerce-e, we were asked by the VP of Marketing and Sales to analyze customer purchase data and segment customers based on purchasing behavior. This will enable the company to create **personalized advertising strategies**.
