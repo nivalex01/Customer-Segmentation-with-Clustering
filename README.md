@@ -79,3 +79,37 @@ Plotted cluster assignments using:
   
   <img width="997" height="750" alt="image" src="https://github.com/user-attachments/assets/98ef38c4-ca27-46c1-b488-a0b2e34d22fc" />
 
+
+## ▶️ How to Run the Project
+
+Follow the instructions below to run the project locally:
+
+### ✅ Prerequisites
+
+Make sure you have **Python 3.7 or higher** installed along with the following libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn scipy plotly
+```
+
+### 📂 Clone the Repository
+```bash
+git clone https://github.com/your-username/commercee-customer-segmentation.git
+cd commercee-customer-segmentation
+```
+
+### 📄 Add the Dataset
+Place the OnlineRetail.csv file in the root directory of the project.
+If it's not included, you can download it from the UCI Machine Learning Repository or another reliable source.
+
+### 🚀 Run the Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+Then open the notebook file (e.g., Customer_Segmentation_CommerceE.ipynb) and execute the cells step by step.
+
+### 📊 Explore and Modify
+* Visualize clustering results using 2D and 3D plots.
+* Experiment with different numbers of clusters or features.
+* Change the reference date (e.g., 19-01-2025) to update recency calculations.
