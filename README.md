@@ -47,6 +47,9 @@ For each customer, we calculated:
 ### 4. 🔍 Determining Number of Clusters
 
 - Used **Elbow Method** and **Dendrogram** (Hierarchical Clustering) to decide on optimal number of clusters.
+  <img width="565" height="448" alt="image" src="https://github.com/user-attachments/assets/6d3f58e4-2eb6-4c49-85d5-fb9e098185cf" />
+  <img width="2027" height="989" alt="image" src="https://github.com/user-attachments/assets/aa001fe1-9d87-477a-a6ef-d9277fe8314c" />
+
 
 ### 5. 🤖 Clustering
 
@@ -60,7 +63,19 @@ For each customer, we calculated:
 ### 6. 📊 Visualization
 
 Plotted cluster assignments using:
-- Revenue vs. Number of Transactions
-- Revenue vs. Days Since Last Transaction
-- Days Since Last Transaction vs. Number of Transactions
-- **3D Visualization** with all three features
+- Scatterplot of the total amount spent against the count invoice based off of the clusters prediction:
+  
+  <img width="997" height="692" alt="image" src="https://github.com/user-attachments/assets/19301dc5-88d8-4a8e-bc15-d01a2e3f937c" />
+
+- Scatterplot of the total amount spent against the last transaction based off of the clusters prediction:
+  
+  <img width="997" height="692" alt="image" src="https://github.com/user-attachments/assets/f10f63f1-4bd6-4954-919a-cde787b15fe3" />
+
+- Scatterplot of the last transaction against the Count invoice based off of the clusters prediction:
+  
+  <img width="997" height="692" alt="image" src="https://github.com/user-attachments/assets/e4ea14fd-0fc0-4863-8a2e-6ff3b40abfe3" />
+
+- **3D Visualization** with all three features:
+  
+  <img width="997" height="750" alt="image" src="https://github.com/user-attachments/assets/98ef38c4-ca27-46c1-b488-a0b2e34d22fc" />
+
