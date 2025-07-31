@@ -17,7 +17,7 @@ The analysis includes:
 
 ## 🧾 Data Source
 
-- `OnlineRetail (1).csv`: Contains purchase transactions including customer IDs, invoice dates, item details, and revenue.
+- `OnlineRetail.csv`: Contains purchase transactions including customer IDs, invoice dates, item details, and revenue.
 - The project uses customer transaction history up to `19-01-2025`.
 
 ## ⚙️ Main Steps and Techniques
