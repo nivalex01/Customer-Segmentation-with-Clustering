@@ -80,6 +80,19 @@ Plotted cluster assignments using:
   <img width="997" height="750" alt="image" src="https://github.com/user-attachments/assets/98ef38c4-ca27-46c1-b488-a0b2e34d22fc" />
 
 
+---
+
+## 🧠 Summary
+
+We segmented customers into distinct groups based on their total spending, transaction frequency, and recency of purchase. This allowed us to distinguish:
+- High-value, loyal customers
+- Inactive or one-time customers
+- Moderate buyers with potential for growth
+
+These insights support personalized marketing strategies and data-driven business decisions.
+
+---
+
 ## ▶️ How to Run the Project
 
 Follow the instructions below to run the project locally:
@@ -94,7 +107,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy plotly
 
 ### 📂 Clone the Repository
 ```bash
-git clone https://github.com/your-username/commercee-customer-segmentation.git
+git clone https://github.com/nivalex01/Customer-Segmentation-with-Clustering.git
 cd commercee-customer-segmentation
 ```
 
